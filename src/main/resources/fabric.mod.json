@@ -8,9 +8,12 @@
     "DuncanRuns"
   ],
   "contributors": [],
-  "contact": {},
+  "contact": {
+    "sources":"https://github.com/DuncanRL/Chest-Minecart-Boat",
+    "homepage":"https://github.com/DuncanRL/Chest-Minecart-Boat"
+  },
   "license": "MIT",
-  "icon": "assets/chestminecartboat/icon.png",
+  "icon": "assets/cmb/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
